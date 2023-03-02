@@ -13,3 +13,4 @@ for ($angka = 1; $angka <= 100; $angka++) {
         echo $angka . "<br>";
     }
 }
+    
