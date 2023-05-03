@@ -24,9 +24,9 @@
   <div class="position-relative p-5 text-center text-muted border border-dashed rounded-5" style=" background-color:#CDFFCA">
     <h1 class="text-body-emphasis">Lesson</h1>
     <p class="col-lg-6 mx-auto mb-4">
-      This faded back jumbotron is useful for placeholder content. It's also a great way to add a bit of context to a page or section when no content is available and to encourage visitors to take a specific action.
+      kamu dapat melihat pelajaran disini
     </p>
-    <a href="lesson.php" class="btn btn-outline-secondary" type="button">Example button</a>
+    <a href="lesson.php" class="btn btn-outline-secondary" type="button"> button</a>
   </div>
 </div>
 
@@ -36,7 +36,7 @@
   <div class="position-relative p-5 text-center text-muted border border-dashed rounded-5" style=" background-color:#EBFFEA">
     <h1 class="text-body-emphasis">Book</h1>
     <p class="col-lg-6 mx-auto mb-4">
-      This faded back jumbotron is useful for placeholder content. It's also a great way to add a bit of context to a page or section when no content is available and to encourage visitors to take a specific action.
+      kamu dapat melihat buku buku disini
     </p>
     <a href="book.php" class="btn btn-outline-secondary" type="button">Example button</a>
   </div>
